@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Special skills
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      JltStudy Skill development courses developed as per the requirement of the
+      NEP2024 supports skill enhancement among students in a cost-effective and
+      comprehensive manner.
+
     actions:
       - label: Get started
         altText: ''
