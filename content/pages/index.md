@@ -393,7 +393,7 @@ sections:
     styles:
       self:
         margin:
-          - mr-28
+          - mr-0
           - mb-0
 seo:
   metaTitle: Home - Demo site
