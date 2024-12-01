@@ -91,7 +91,7 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: FULL STACK WEB DEVELOPMENT
-        text: "Full stack development encompasses the\_*complete process of application software development*, including both the front-end and back-end development.\n"
+        text: "<div style=\"text-align: left\">**Full stack development encompasses the\_*complete process of application software development*, including both the front-end and back-end development.**</div>\n\n"
         image:
           url: /images/1723569063348.jpg
           altText: Featured icon two
