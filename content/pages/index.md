@@ -351,8 +351,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "It's Impossible." said Pride. "It's Risky." said Experience. "It's
+          Pointless." said Reason. If you really are Hacker I then Give it a
+          Try!."
         tagline: Alok Raj
         subtitle: JLT
         text: >+
