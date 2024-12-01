@@ -1,5 +1,5 @@
 ---
-title: EMPTY 2
+title: ''
 slug: case-study-2
 date: '2024-12-01'
 excerpt: >-
