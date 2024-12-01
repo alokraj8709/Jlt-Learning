@@ -228,7 +228,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: 'Your Goals, Our Solutions'
     text: >+
       JltStudy stands at the forefront of educational innovation,
       revolutionizing the industry with a powerful combination of extensive
