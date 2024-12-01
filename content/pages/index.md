@@ -350,37 +350,6 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "It's Impossible." said Pride. "It's Risky." said Experience. "It's
-          Pointless." said Reason. If you really are Hacker I then Give it a
-          Try!
-        tagline: Alok Raj
-        subtitle: JLT
-        text: >+
-          Confused on which course to take? I have got you covered. Browse
-          courses and find out the best course for you.
-
-        image:
-          url: /images/WhatsApp Image 2024-12-01 at 2.37.47 PM.jpeg
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
     elementId: null
     variant: next-prev-nav
     colors: bg-light-fg-dark
