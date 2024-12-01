@@ -180,7 +180,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: shadow-plus-move-up
-    subtitle: Coding and Programming
+    subtitle: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
