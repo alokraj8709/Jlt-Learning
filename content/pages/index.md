@@ -373,6 +373,14 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
+        altText: Reddit
+        url: /
+        showIcon: true
+        icon: reddit
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
         label: ''
         altText: Twitter
         url: 'https://x.com/alokraj87094'
@@ -396,14 +404,6 @@ sections:
         showIcon: true
         icon: mail
         iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        altText: Reddit
-        url: /
-        showIcon: true
-        icon: reddit
-        iconPosition: left
         style: secondary
         elementId: ''
     styles:
