@@ -390,6 +390,10 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+    styles:
+      self:
+        margin:
+          - mr-28
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
