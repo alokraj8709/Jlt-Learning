@@ -393,8 +393,10 @@ sections:
     styles:
       self:
         margin:
-          - mr-0
-          - mb-0
+          - mr-12
+          - mb-12
+          - mt-12
+          - ml-12
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
