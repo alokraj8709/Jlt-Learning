@@ -161,7 +161,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Trusted people us
+  - subtitle: Our Patrons
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
