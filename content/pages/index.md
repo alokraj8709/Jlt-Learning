@@ -358,6 +358,14 @@ sections:
     actions:
       - type: Link
         altText: GitHub
+        url: /
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: GitHub
         url: 'https://github.com/alokraj8709'
         showIcon: true
         icon: github
