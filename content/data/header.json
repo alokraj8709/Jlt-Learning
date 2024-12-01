@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/icon3.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -9,7 +8,9 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Screenshot_2024-12-01_195723-removebg-preview.png",
+        "elementId": "20"
     },
     "primaryLinks": [
         {
