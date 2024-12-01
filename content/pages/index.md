@@ -393,10 +393,10 @@ sections:
     styles:
       self:
         margin:
-          - mr-12
-          - mb-12
-          - mt-12
-          - ml-12
+          - mr-0
+          - mb-0
+          - mt-0
+          - ml-0
         padding:
           - pt-0
           - pl-0
