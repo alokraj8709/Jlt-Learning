@@ -367,7 +367,7 @@ sections:
       - type: Link
         altText: ''
         url: \
-        showIcon: true
+        showIcon: false
         icon: vimeo
         iconPosition: left
         style: secondary
