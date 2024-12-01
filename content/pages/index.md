@@ -318,7 +318,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our student say about us
+    subtitle: What our own say about us
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
