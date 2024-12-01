@@ -439,6 +439,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: Send email
+        altText: Play
+        url: 'https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
