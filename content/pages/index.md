@@ -321,8 +321,9 @@ sections:
     subtitle: What our own say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "It's Impossible." said Pride. "It's Risky." said Experience. "It's
+          Pointless." said Reason. If you really are Hacker I then Give it a
+          Try!
         tagline: Alok Raj
         subtitle: 'Maria Walters, Company'
         text: >-
