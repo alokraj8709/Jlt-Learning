@@ -181,6 +181,10 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: shadow-plus-move-up
     subtitle: ''
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
