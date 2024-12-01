@@ -134,7 +134,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: Get intouch
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
