@@ -365,7 +365,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        altText: Vimeo
+        altText: ''
         url: /
         showIcon: true
         icon: vimeo
