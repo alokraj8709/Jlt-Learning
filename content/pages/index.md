@@ -382,17 +382,17 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        altText: ''
+        altText: Reddit
         url: /
-        showIcon: false
+        showIcon: true
         icon: reddit
         iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
-        altText: Reddit
+        altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: reddit
         iconPosition: left
         style: secondary
