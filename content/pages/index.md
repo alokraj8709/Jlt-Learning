@@ -355,10 +355,10 @@ sections:
           accomplish a particular purpose."
         tagline: Alok Raj
         subtitle: JLT
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Confused on which course to take? I have got you covered. Browse
+          courses and find out the best course for you.
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
