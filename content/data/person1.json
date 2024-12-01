@@ -12,7 +12,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "1"
     },
     "colors": "bg-light-fg-dark",
     "styles": {
