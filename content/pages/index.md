@@ -398,7 +398,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        altText: Reddit
+        altText: ''
         url: /
         showIcon: true
         icon: reddit
