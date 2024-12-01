@@ -326,10 +326,9 @@ sections:
           Try!
         tagline: Alok Raj
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Confused on which course to take? I have got you covered. Browse
+          courses and find out the best course for you.
         image:
           url: /images/WhatsApp Image 2024-12-01 at 2.37.47 PM.jpeg
           altText: Maria Walters
