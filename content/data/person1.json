@@ -1,20 +1,6 @@
 {
     "name": "",
     "role": "",
-    "image": {
-        "url": "/images/download.png",
-        "altText": "github",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "elementId": "1"
-    },
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
