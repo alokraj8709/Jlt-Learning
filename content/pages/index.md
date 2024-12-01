@@ -422,6 +422,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: Twitter
+        altText: Twitter
+        url: 'https://x.com/alokraj87094'
+        showIcon: true
+        icon: twitter
+        iconPosition: left
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
