@@ -91,10 +91,7 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: FULL STACK WEB DEVELOPMENT
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Full stack web development is\_the process of designing, building, testing, and deploying a website or application from start to finish, including both the front end and the back end:\n\n"
         image:
           url: /images/1723569063348.jpg
           altText: Featured icon two
