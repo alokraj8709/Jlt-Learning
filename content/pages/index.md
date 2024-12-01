@@ -353,7 +353,7 @@ sections:
       - title: >-
           "It's Impossible." said Pride. "It's Risky." said Experience. "It's
           Pointless." said Reason. If you really are Hacker I then Give it a
-          Try!."
+          Try!
         tagline: Alok Raj
         subtitle: JLT
         text: >+
