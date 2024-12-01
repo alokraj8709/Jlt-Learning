@@ -164,7 +164,7 @@ sections:
   - subtitle: Our Patrons
     images:
       - url: /images/Screenshot_2024-12-01_210512-removebg-preview.png
-        altText: Empathy logo
+        altText: Code with Harry
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
