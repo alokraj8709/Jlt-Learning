@@ -275,7 +275,7 @@ sections:
       text: Feature Media Management
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Increase your skills
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
