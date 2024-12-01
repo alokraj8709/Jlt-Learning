@@ -398,10 +398,10 @@ sections:
           - mt-9
           - ml-9
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
