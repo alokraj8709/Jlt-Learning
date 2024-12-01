@@ -65,10 +65,7 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: HACKING COURSES 2025
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "This course\_provides learners with real practical hands-on learning to gain real-world experience as an Ethical Hacker.\_\n\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
