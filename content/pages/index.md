@@ -183,7 +183,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: '         Coding and Programming'
+      text: '                   Coding and Programming'
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
