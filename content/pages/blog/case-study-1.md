@@ -8,7 +8,8 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: >-
+    /images/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg
   altText: Case study 1
   styles:
     self:
