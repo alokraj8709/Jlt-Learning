@@ -406,6 +406,14 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        altText: Reddit
+        url: /
+        showIcon: true
+        icon: reddit
+        iconPosition: left
+        style: secondary
+        elementId: ''
     styles:
       self:
         margin:
