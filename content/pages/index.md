@@ -354,7 +354,7 @@ sections:
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
         tagline: Alok Raj
-        subtitle: 'John Doe, Company'
+        subtitle: JLT
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
