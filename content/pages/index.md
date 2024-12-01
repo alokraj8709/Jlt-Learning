@@ -241,7 +241,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 700
       type: Badge
     colors: bg-light-fg-dark
     styles:
