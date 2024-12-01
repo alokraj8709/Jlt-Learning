@@ -424,7 +424,7 @@ sections:
         elementId: ''
       - type: Link
         label: Twitter
-        altText: Twitter
+        altText: ''
         url: 'https://x.com/alokraj87094'
         showIcon: true
         icon: twitter
