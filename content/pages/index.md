@@ -179,7 +179,7 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
     subtitle: Coding and Programming
   - title: Divider
     colors: bg-light-fg-dark
