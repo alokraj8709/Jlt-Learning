@@ -163,7 +163,7 @@ sections:
         textAlign: center
   - subtitle: Our Patrons
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Screenshot 2024-12-01 210512.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
