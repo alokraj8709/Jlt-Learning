@@ -187,7 +187,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: justify
+          textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
