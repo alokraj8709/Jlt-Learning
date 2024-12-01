@@ -366,7 +366,7 @@ sections:
         elementId: ''
       - type: Link
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: vimeo
         iconPosition: left
