@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Full Stack Web Development
 slug: case-study-2
 date: '2024-12-01'
 excerpt: >-
