@@ -423,19 +423,19 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        altText: LinkedIn
-        url: 'https://www.linkedin.com/in/jlt-alok-raj-6a4983258/'
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
         label: ''
         altText: Twitter
         url: 'https://x.com/alokraj87094'
         showIcon: true
         icon: twitter
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/jlt-alok-raj-6a4983258/'
+        showIcon: true
+        icon: linkedin
         iconPosition: left
         style: secondary
         elementId: ''
