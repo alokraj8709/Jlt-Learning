@@ -390,18 +390,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        altText: LinkedIn
-        url: 'https://www.linkedin.com/in/jlt-alok-raj-6a4983258/'
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
         altText: ''
         url: /
         showIcon: false
         icon: reddit
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/jlt-alok-raj-6a4983258/'
+        showIcon: true
+        icon: linkedin
         iconPosition: left
         style: secondary
         elementId: ''
