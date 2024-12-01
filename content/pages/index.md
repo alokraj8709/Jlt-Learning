@@ -166,7 +166,7 @@ sections:
       - url: /images/Screenshot_2024-12-01_210512-removebg-preview.png
         altText: Code with Harry
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/0f275b1c30123c908cc8491a86d9146a.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
