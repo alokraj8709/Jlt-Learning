@@ -68,7 +68,7 @@
                     "type": "Link"
                 }
             ],
-            "labelStyle": "primary",
+            "labelStyle": "secondary",
             "type": "SubNav"
         }
     ],
