@@ -273,6 +273,7 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+        altText: Dropdown
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
