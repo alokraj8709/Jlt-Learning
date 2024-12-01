@@ -96,7 +96,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/fl.webp
+          url: /images/1723569063348.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
