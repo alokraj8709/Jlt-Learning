@@ -413,6 +413,15 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Link
+        altText: GitHub
+        url: 'https://github.com/alokraj8709'
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
