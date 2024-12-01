@@ -514,7 +514,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Have a question or just want to say hi? We'd love to hear from you.
-    text: "Our email and\_*contact*\_form is below. We'll get back to you within 48 hours Monday-Friday. alokraj87094\\@gmail.com.\n\n\n"
+    text: "Our email and\_*contact*\_form is below. We'll get back to you within 48 hours Monday-Friday. <alokraj87094@gmail.com>.\n"
     media:
       fields:
         - name: name
