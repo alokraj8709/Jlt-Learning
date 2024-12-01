@@ -384,7 +384,7 @@ sections:
       - type: Link
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: reddit
         iconPosition: left
         style: secondary
