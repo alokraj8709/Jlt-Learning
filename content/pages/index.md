@@ -361,7 +361,7 @@ sections:
         url: 'https://github.com/alokraj8709'
         showIcon: true
         icon: github
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
