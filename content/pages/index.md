@@ -272,7 +272,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Feature Media Management
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
