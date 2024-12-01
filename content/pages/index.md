@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
       - label: See Tutorials
-        altText: ''
+        altText: Dropdown
         url: /
         showIcon: true
         icon: arrowRight
