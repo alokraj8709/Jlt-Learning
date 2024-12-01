@@ -87,7 +87,8 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: >-
+            /images/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg
           styles:
             self:
               borderRadius: x-large
