@@ -113,10 +113,7 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: NIMCET $ CUET
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Hello guys. Is the syllabus for both of them similar? Can I study for\_*NIMCET*\_and appear for\_*CUET*\_hoping the syllabus is same and vice versa?\n\n"
         image:
           url: /images/maxresdefault.jpg
           altText: Featured icon three
