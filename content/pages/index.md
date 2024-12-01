@@ -514,11 +514,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Have a question or just want to say hi? We'd love to hear from you.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Our email and\_*contact*\_form is below. We'll get back to you within 48 hours Monday-Friday. alokraj87094\\@gmail.com.\n\n\n"
     media:
       fields:
         - name: name
