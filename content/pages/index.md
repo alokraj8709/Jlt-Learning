@@ -366,7 +366,7 @@ sections:
     text: "Our email and\_*contact*\_form is below. We'll get back to you within 48 hours Monday-Friday. \n"
     badge:
       label: Contact Us
-      color: text-dark
+      color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
