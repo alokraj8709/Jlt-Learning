@@ -361,7 +361,7 @@ sections:
           courses and find out the best course for you.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/WhatsApp Image 2024-12-01 at 2.37.47 PM.jpeg
           altText: John Doe
           styles:
             self:
