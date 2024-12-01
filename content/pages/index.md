@@ -325,7 +325,7 @@ sections:
           Pointless." said Reason. If you really are Hacker I then Give it a
           Try!
         tagline: Alok Raj
-        subtitle: 'Maria Walters, Company'
+        subtitle: JLT
         text: >
           Confused on which course to take? I have got you covered. Browse
           courses and find out the best course for you.
