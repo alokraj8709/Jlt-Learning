@@ -423,7 +423,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Twitter
+        label: ''
         altText: ''
         url: 'https://x.com/alokraj87094'
         showIcon: true
