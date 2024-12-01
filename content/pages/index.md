@@ -345,6 +345,7 @@ sections:
       styles:
         self:
           fontWeight: 700
+          textAlign: center
     colors: bg-light-fg-dark
     type: GenericSection
     actions:
