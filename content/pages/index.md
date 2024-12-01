@@ -148,7 +148,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    elementId: ''
+    elementId: '10'
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
