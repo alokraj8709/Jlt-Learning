@@ -185,6 +185,9 @@ sections:
       type: TitleBlock
       text: Coding and Programming
       color: text-dark
+      styles:
+        self:
+          textAlign: justify
   - title: Divider
     colors: bg-light-fg-dark
     styles:
