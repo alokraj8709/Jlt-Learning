@@ -276,9 +276,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your skills
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      We make a living by what we get, but we make a life by what we give
+
     actions:
       - label: Get started
         url: /
