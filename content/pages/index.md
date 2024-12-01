@@ -342,6 +342,9 @@ sections:
       label: Get intouch
       color: text-primary
       type: Badge
+      styles:
+        self:
+          fontWeight: 700
     colors: bg-light-fg-dark
     type: GenericSection
     actions:
