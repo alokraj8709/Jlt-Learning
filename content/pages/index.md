@@ -265,6 +265,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Coding And Programming
       - label: See Tutorials
         url: /
         showIcon: true
