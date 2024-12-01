@@ -133,7 +133,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Get started
-        altText: ''
+        altText: Coding And Programming
         url: \
         showIcon: false
         icon: arrowRight
