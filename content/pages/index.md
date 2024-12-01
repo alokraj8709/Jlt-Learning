@@ -513,7 +513,7 @@ sections:
       text: Feel free to contact me!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Have a question or just want to say hi? We'd love to hear from you.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
