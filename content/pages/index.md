@@ -390,6 +390,14 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        altText: Vimeo
+        url: /
+        showIcon: true
+        icon: vimeo
+        iconPosition: left
+        style: secondary
+        elementId: ''
     styles:
       self:
         margin:
